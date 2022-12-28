@@ -1,1 +1,1 @@
-web: python manage.py migrate && portfolio.wsgi
+web: python manage.py migrate && personal_portfolio.wsgi
